@@ -44,21 +44,21 @@
 
 ### 识别样张
 
-![1](/Users/yujinke/me/plate_updata/HyperLPR_python/res/2.png)
+![1](/res/2.png)
 
-![1](/Users/yujinke/me/plate_updata/HyperLPR_python/res/1.png)
+![1](/res/1.png)
 
-![3](/Users/yujinke/me/plate_updata/HyperLPR_python/res/3.png)
+![3](/res/3.png)
 
-![5](/Users/yujinke/me/plate_updata/HyperLPR_python/res/5.png)
+![5](/res/5.png)
 
-![6](/Users/yujinke/me/plate_updata/HyperLPR_python/res/6.png)
+![6](/res/6.png)
 
-![8](/Users/yujinke/me/plate_updata/HyperLPR_python/res/8.png)
+![8](/res/8.png)
 
-![7](/Users/yujinke/me/plate_updata/HyperLPR_python/res/7.png)
+![7](/res/7.png)
 
-![10](/Users/yujinke/me/plate_updata/HyperLPR_python/res/10.png)
+![10](/res/10.png)
 
 
 
