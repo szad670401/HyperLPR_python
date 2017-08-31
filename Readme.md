@@ -40,17 +40,31 @@
 ### 模型
 由于涉及到商业用途，目前开源的检测模型存在一定数量的误检，可通过级联判断模型来减少误检。
 
-### 测试结果
 
-总识别率 0.70243902439
-第1位(汉字)匹配率: 0.868292682927 第2位(省份)匹配率: 0.887804878049 第3位匹配率: 0.907317073171
-第4位匹配率: 0.936585365854 第5位匹配率: 0.926829268293 第6位匹配率: 0.912195121951 第7位匹配率: 0.878048780488
-完全匹配: 144
-匹配错误1位: 37
-匹配错误2位: 8
-匹配错误3位: 4
-匹配错误4位: 1
-匹配错误5位: 1
-匹配错误6位: 4
-匹配完全错误: 4
-错误4位以上的车牌 川MAGU8C->川AGU801 吉MN4E1Q->川AN4E10 晋P186KM->晋AP186W 津FPH161->津AHP676 津Z26U41->津E22602 川A1MS68->津MSY678 浙CQ17DL->浙C01701 湘A177G3->湘A07G31 津TDG10M->皖EZM618 沪A150LJ->粤B450LJ 沪R75Y34->粤BR75Y3 青Q0C666->陕B8C666
+
+### 识别样张
+
+![1](/Users/yujinke/me/plate_updata/HyperLPR_python/res/2.png)
+
+![1](/Users/yujinke/me/plate_updata/HyperLPR_python/res/1.png)
+
+![3](/Users/yujinke/me/plate_updata/HyperLPR_python/res/3.png)
+
+![5](/Users/yujinke/me/plate_updata/HyperLPR_python/res/5.png)
+
+![6](/Users/yujinke/me/plate_updata/HyperLPR_python/res/6.png)
+
+![8](/Users/yujinke/me/plate_updata/HyperLPR_python/res/8.png)
+
+![7](/Users/yujinke/me/plate_updata/HyperLPR_python/res/7.png)
+
+![10](/Users/yujinke/me/plate_updata/HyperLPR_python/res/10.png)
+
+
+
+### 识别样张
+
+##### Anthor
+
++ Jack Yu
+
