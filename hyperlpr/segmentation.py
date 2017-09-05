@@ -151,7 +151,7 @@ def refineCrop(sections,width=16):
         cv2.blur(section,(3,3),3)
 
         sec_center = np.array([section.shape[1]/2,section.shape[0]/2])
-        thresh_niblack = threshold_niblack(section, window_size=17, k=-0.2.2)
+        thresh_niblack = threshold_niblack(section, window_size=17, k=-0.2)
         binary_niblack = section > thresh_niblack
         binary_niblack = binary_niblack.astype(np.uint8) * 255
         imagex, contours, hierarchy  = cv2.findContours(binary_niblack,cv2.RETR_EXTERNAL,cv2.CHAIN_APPROX_SIMPLE)
